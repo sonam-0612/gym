@@ -4,7 +4,7 @@ import Link from "next/link";
 import { NavItems } from "@/data/Navbar";
 import { Menu, X } from "lucide-react"; // Icons for menu toggle
 import { usePathname } from "next/navigation"; // Hook to get the current path
-import logo from "../assets/img/icon.png"; // Import images
+// import logo from "../assets/img/icon.png"; // Import images
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
