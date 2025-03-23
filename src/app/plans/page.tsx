@@ -6,6 +6,7 @@ export default function Plan() {
     ];
   
     const plansforgirls = [
+      
       { id: 1, tenure: '1 Months', amount: '800/-' },
       { id: 2, tenure: '3 Months', amount: '1,900/-' },
       { id: 3, tenure: '6 Months', amount: '3,300/-' },
